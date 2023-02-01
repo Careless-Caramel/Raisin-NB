@@ -1,4 +1,4 @@
-# **Naive Bayes Classification on Raisin Dataset**
+# **Naïve Bayes Classification on Raisin Dataset**
 
 ![image.png](https://cdn-prod.medicalnewstoday.com/content/images/articles/325/325127/raisins-on-a-wooden-spoon.jpg)
 
@@ -9,7 +9,7 @@ The Naive Bayes classification algorithm includes the probability-threshold para
 
 **Gaussian Naïve Bayes** is the extension of naïve Bayes. While other functions are used to estimate data distribution, Gaussian or normal distribution is the simplest to implement as you will need to calculate the **mean** and **standard deviation** for the training data.
 
-In this project we create a Gaussian Naive Bayes Model for classification.
+In this project we create a Gaussian Naïve Bayes Model for classification.
 
 ## **📍About Data**
 
