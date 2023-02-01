@@ -5,9 +5,9 @@
 The Naive Bayes classification algorithm is a probabilistic classifier. It is based on probability models that incorporate strong independence assumptions.Naive Bayes model records how often a target field value appears together with a value of an input field.
 
 
-The Naive Bayes classification algorithm includes the probability-threshold parameter ZeroProba. The value of the probability-threshold parameter is used if one of the above mentioned dimensions of the cube is empty. A dimension is empty, if a training-data record with the combination of input-field value and target value does not exist.
+The Naive Bayes classification algorithm includes the probability-threshold parameter **ZeroProba**. The value of the probability-threshold parameter is used if one of the above mentioned dimensions of the cube is empty. A dimension is empty, if a training-data record with the combination of input-field value and target value does not exist.
 
-Gaussian Naïve Bayes is the extension of naïve Bayes. While other functions are used to estimate data distribution, Gaussian or normal distribution is the simplest to implement as you will need to calculate the mean and standard deviation for the training data.
+**Gaussian Naïve Bayes** is the extension of naïve Bayes. While other functions are used to estimate data distribution, Gaussian or normal distribution is the simplest to implement as you will need to calculate the **mean** and **standard deviation** for the training data.
 
 In this project we create a Gaussian Naive Bayes Model for classification.
 
